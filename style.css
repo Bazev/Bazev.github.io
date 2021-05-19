@@ -19,6 +19,14 @@ body {
     
 }
 
+.MyText {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
 
 a{
     border: solid 1px white;
