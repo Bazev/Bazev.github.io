@@ -1204,4 +1204,5 @@ section {
 
 .diapocom {
   display:flex;
+  justify-content: center;
 }
